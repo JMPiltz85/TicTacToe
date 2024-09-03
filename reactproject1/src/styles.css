@@ -1,0 +1,16 @@
+body {
+}
+
+.square {
+    height:20px;
+    width:26px;
+}
+
+.board-row{
+    height:22px;
+}
+
+.status{
+    margin-bottom:10px;
+
+}
